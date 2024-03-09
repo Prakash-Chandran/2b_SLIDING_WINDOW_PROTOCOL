@@ -46,10 +46,8 @@ while True:
 CLIENT:
 
 ![Client](https://github.com/Prakash-Chandran/2b_SLIDING_WINDOW_PROTOCOL/assets/147120899/baf6a0d5-014a-472d-ad7b-0935749482b2)
-
 SERVER:
 
 ![Server](https://github.com/Prakash-Chandran/2b_SLIDING_WINDOW_PROTOCOL/assets/147120899/a0d96e20-8110-4ba4-88b0-05a633e844ec)
-
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
